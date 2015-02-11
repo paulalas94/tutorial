@@ -64,7 +64,12 @@ git status
 "On branch master, nothing to commit, working directory clean"
 //meaning walang file na ndi pa naccommit
 
-a
+git diff
+- shows you the changes in the file
+//so ung red text is ung nsa repo mo ngaun 
+//ung green text that is the change you've made
+
+ensaymada anstarap tsarap
 
 
 
