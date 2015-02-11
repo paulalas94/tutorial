@@ -1,6 +1,8 @@
 git commands
 //credits to thenewboston and to bucky
 //great tuts
+//working area > staging area > repository
+
 
 pwd
 - this is your present working destination
@@ -68,6 +70,10 @@ git diff
 - shows you the changes in the file
 //so ung red text is ung nsa repo mo ngaun 
 //ung green text that is the change you've made
+
+git diff --staged
+- compares the files in your working area and staging area
+//kasi pag nag git add <filename> ka na ndi na mababasa ndi git diff kung meron bang changes dun sa file na un
 
 ensaymada anstarap tsarap weee
 
