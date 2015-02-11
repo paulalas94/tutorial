@@ -1,3 +1,5 @@
+NASA GIT PART 10 na tayo ah.
+
 git commands
 //credits to thenewboston and to bucky
 //great tuts
