@@ -1,9 +1,11 @@
+/** FINISHED THE TUTORIAL 2/19/2015 **/
+/** CREDITS TO THENEWBOSTON AND TO MR.BUCKY ROBERTS **/
 
 git commands
 //credits to thenewboston and to bucky
 //great tuts
 //working area > staging area > repository
-
+//your remote to github is palasgitrepo
 
 pwd
 - this is your present working destination
@@ -111,3 +113,16 @@ git checkout reference number -- filename.ext
 - sample git checkout 01e7dba -- index.html
 // to get the old version from the repo
 
+git remote add nickname url for github
+- sample git remote add palasgitrepo https://github.com/paulalas94/tutorial.git
+- setup a remote a connection to your local computer to your public online server or git
+- para maconnect ung github to your desktop
+
+git push -u remoterepo master
+- sample git push -u palasgitrepo master
+- sample git push commands.txt palasgitrepo master
+//then it will ask for your username and pw for your github account then it'll upload it to your online repo
+- parameter -u means push all documents
+- from local to online
+- so pushing is giving them to the server or to your github repo
+- fetching is when you are retrieving the file from your github repo to your local computer
