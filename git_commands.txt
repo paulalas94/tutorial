@@ -1,0 +1,91 @@
+NASA GIT PART 10 na tayo ah.
+
+git commands
+//credits to thenewboston and to bucky
+//great tuts
+//working area > staging area > repository
+
+
+pwd
+- this is your present working destination
+
+cd
+- change directory command you may use  ".." to go back one step
+//cd ~ = meaning go to home directory
+
+ls
+- to see everything that is inside in your pwd
+
+git config --global user.name "Paul Alas" 
+- for setting up the user name
+//ung --global ndi for the entire project para lang kay user meaning me or Paul Alas
+
+git config --global user.email "paulalas94@gmail.com"
+- for setting up the user email
+
+git config --list
+- to see all your settings
+//para mkita mo ung specific setting type  git config user.email
+
+clear
+- para malinis ung screen kung medyo naguguluhan ka na sa ngyayari haha
+
+git help
+- para mkita ung mostly used commands
+
+git help <specific command> ex. git help commit
+- may magppop up na page about the commit command
+
+
+git init
+- **so kung gsto mo gmawa ng git repo
+go to your destination file na gstong gawin repo and then when you are there type that
+
+ls -la
+- ls means everything
+//having "-la" it lists all the hidden files
+//these are the files that manages, controls git
+//don't try to file these files forbidden haha bka magulo ung git
+
+git add .
+- add the changes to the project
+//lets git know that we added something in the GitPaul project or repo
+
+git commit -m "your message here"
+- takes a snapshot of this point in time
+//bale ito na ata ung version control 
+
+git log
+- lets you see all your commit history
+//ansaya sya haha
+
+git log --author="Paul"
+-lets you see a specific user's commit history
+//sweet haha
+
+git status
+- so kapag ang message is
+"On branch master, nothing to commit, working directory clean"
+//meaning walang file na ndi pa naccommit
+
+git diff
+- shows you the changes in the file
+//so ung red text is ung nsa repo mo ngaun 
+//ung green text that is the change you've made
+
+git diff --staged
+- compares the files in your working area and staging area
+//kasi pag nag git add <filename> ka na ndi na mababasa ndi git diff kung meron bang changes dun sa file na un
+
+ensaymada anstarap tsarap weee
+
+
+git rm filename.extension
+- sample git rm diary.txt
+// delete files from the git repository
+
+
+
+
+
+
