@@ -85,6 +85,9 @@ git rm filename.extension
 // delete files from the git repository
 
 
+git mv filename.ext filename2.ext
+- sample git mv git_commands.txt hatred.txt
+// moving is the same as renaming the file
 
 
 
