@@ -89,6 +89,10 @@ git mv filename.ext filename2.ext
 - sample git mv git_commands.txt hatred.txt
 // moving is the same as renaming the file
 
+git mv filename.ext palas_personal/filename.ext(pag immove lang) or palas_personal/filename2.ext(pag irrename at immove)
+- sample mv RESUME-ALAS.docx palas_personal/RESUME-ALAS.docx
+// moving a file to a folder
+
 
 
 
