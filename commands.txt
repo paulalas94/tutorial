@@ -97,8 +97,9 @@ git commit -am "message"
 //dba pag nag add sa staging area muna den after nun pagka commmit sa repo na so nag shortcut na pnadala na agad sa repo
 //be careful pag ginagamit to ksi kkunin nia lahat nung nasa working copy mo edi maganda lang to pag marami k ng inedit na sure at kailangan icommit na
 
-git checkout --filename
-- means take out something from the repository and make it your working copy
+git checkout -- filename
+- git checkout -- commands.txt
+//means take out something from the repository and make it your working copy
 //cool haha
 
 
