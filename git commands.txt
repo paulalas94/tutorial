@@ -80,6 +80,12 @@ git diff --staged
 ensaymada anstarap tsarap weee
 
 
+git rm filename.extension
+- sample git rm diary.txt
+// delete files from the git repository
+
+
+
 
 
 
