@@ -102,6 +102,12 @@ git checkout -- filename
 //means take out something from the repository and make it your working copy
 //cool haha
 
+git reset HEAD filename
+- removes the file from the staging area 
+- sample diba nag git add sample.txt ka na edi nsa staging area na un ready for commit so para ma unstaged un yan ung command
 
 
+git checkout reference number -- filename.ext
+- sample git checkout 01e7dba -- index.html
+// to get the old version from the repo
 
