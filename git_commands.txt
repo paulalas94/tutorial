@@ -1,4 +1,3 @@
-NASA GIT PART 10 na tayo ah.
 
 git commands
 //credits to thenewboston and to bucky
@@ -92,6 +91,15 @@ git mv filename.ext filename2.ext
 git mv filename.ext palas_personal/filename.ext(pag immove lang) or palas_personal/filename2.ext(pag irrename at immove)
 - sample mv RESUME-ALAS.docx palas_personal/RESUME-ALAS.docx
 // moving a file to a folder
+
+git commit -am "message"
+- shortcut ng add at commit
+//dba pag nag add sa staging area muna den after nun pagka commmit sa repo na so nag shortcut na pnadala na agad sa repo
+//be careful pag ginagamit to ksi kkunin nia lahat nung nasa working copy mo edi maganda lang to pag marami k ng inedit na sure at kailangan icommit na
+
+git checkout --filename
+- means take out something from the repository and make it your working copy
+//cool haha
 
 
 
